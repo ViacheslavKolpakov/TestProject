@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculator {
+public class multiplication {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         int a = console.nextInt();
