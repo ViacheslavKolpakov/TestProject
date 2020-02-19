@@ -16,9 +16,5 @@ public class Number {
             System.out.println("Такой константы нет!");
         }
     }
-
-
 }
-            //else {
-        //System.out.println("Данное значение не найдено");
 
